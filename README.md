@@ -3,15 +3,6 @@
 <p align="center">
   📱 Android 应用开发 · 🤖 Android AI 方向 · 🧩 架构/工程化
 </p>
-
-<p align="center">
-  <a href="https://blog.csdn.net/weixin_53760974?spm=1000.2115.3001.5343">📝 CSDN</a>
-  ·
-  <a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/kairowan)">💻 GitHub</a>
-  ·
-  <a href="gaohaonan45@gmail.com">📮 Email</a>
-</p>
-
 ---
 
 ## 🚀 About Me
