@@ -18,7 +18,7 @@
 - 🧩 **工程化/架构**：模块化、组件化、Clean Architecture、可维护性提升与重构
 ---
 
-## 📝 Tech Writing (中文)
+## 📝 Tech Writing
 - ✍️ CSDN：https://blog.csdn.net/weixin_53760974?spm=1000.2115.3001.5343
 - 📚 方向：Android / Android AI / 工程化实践 / 技术写作与复盘
 
