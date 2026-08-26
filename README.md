@@ -78,21 +78,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=kairowan&show_icons=true&theme=transparent&hide_border=true&title_color=3DDC84&icon_color=3DDC84"
-  alt="kairowan GitHub statistics"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairowan&layout=compact&theme=transparent&hide_border=true&title_color=3DDC84"
-  alt="Languages used in kairowan public repositories"
-/>
+<img src="./assets/current-focus.svg" width="900" alt="Animated overview of current Android AI focus areas" />
 
 </div>
 
@@ -143,7 +133,7 @@
 
 <div align="center">
 
-### Build useful things, keep learning. 🚀
+<img src="./assets/footer-wave.svg" width="900" alt="Animated Build, Learn and Share footer" />
 
 <img
   src="https://komarev.com/ghpvc/?username=kairowan&label=Profile%20Views&color=3DDC84&style=flat-square"
